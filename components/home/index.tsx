@@ -9,7 +9,6 @@ export default function Home() {
   return (
     <PageContainer sidePadding sectionName="Home">
       <Welcome />
-      <Profile source="/personal_1.jpg" size={80} />
       <Intro />
       <ScrollDown />
     </PageContainer>

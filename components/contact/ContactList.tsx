@@ -17,32 +17,32 @@ const iconSize = 20;
 export const SOCIAL_MEDIA = [
   {
     title: "Gmail",
-    href: "mailto:satriaabaharii@gmail.com",
+    href: "mailto:jamaicaveraaa@gmail.com",
     icon: <SiGmail size={iconSize} className="text-neutral-50" />,
     backgroundColor: "bg-gradient-to-b from-red-500 to-red-800",
   },
   {
     title: "Instagram",
-    href: "https://www.instagram.com/satriabaharii_/",
+    href: "https://www.instagram.com/jamcvr_/",
     icon: <InstagramIcon size={iconSize} className="text-neutral-50" />,
     backgroundColor:
       "bg-gradient-to-b from-purple-700 via-pink-500 to-orange-500",
   },
   {
     title: "Linkedin",
-    href: "https://www.linkedin.com/in/satria-bahari/",
+    href: "https://www.linkedin.com/in/jamaica-vera/",
     icon: <LinkedinIcon size={iconSize} className="text-neutral-50" />,
     backgroundColor: "bg-gradient-to-b from-sky-700 to-sky-950",
   },
   {
     title: "Tiktok",
-    href: "https://www.tiktok.com/@satriaabaharii/",
+    href: "https://www.tiktok.com/@/",
     icon: <TiktokIcon size={iconSize} className="text-neutral-50" />,
     backgroundColor: "bg-gradient-to-b from-neutral-700 to-neutral-900",
   },
   {
     title: "Github",
-    href: "https://github.com/satriabahari",
+    href: "https://github.com/lou-svt",
     icon: <GithubIcon size={iconSize} className="text-neutral-900" />,
     backgroundColor: "bg-gradient-to-b from-neutral-200 to-neutral-500",
     textColor: "text-neutral-900",

@@ -1,5 +1,5 @@
 export const METADATA = {
-  creator : "Satria Bahari",
+  creator : "Jamaica Vera",
   description: "",
   profile: ""
 }

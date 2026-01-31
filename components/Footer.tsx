@@ -6,7 +6,7 @@ export default function Footer() {
       <span>©</span>
       <span>{new Date().getFullYear()}</span>
       <span>by</span>
-      <span>Satria Bahari.</span>
+      <span>Jamaica Vera.</span>
     </div>
   );
 }

@@ -42,10 +42,6 @@ const STACKS = [
     icon: <SiTailwindcss size={iconSize} className="text-cyan-300" />,
   },
   {
-    title: "PHP",
-    icon: <SiPhp size={iconSize} className="text-indigo-300" />,
-  },
-  {
     title: "JavaScript",
     icon: <SiJavascript size={iconSize} className="text-yellow-400" />,
   },
@@ -58,24 +54,12 @@ const STACKS = [
     icon: <SiNodedotjs size={iconSize} className="text-green-600" />,
   },
   {
-    title: "Express.js",
-    icon: <SiExpress size={iconSize} />,
-  },
-  {
     title: "React.js",
     icon: <SiReact size={iconSize} className="text-sky-500" />,
   },
   {
-    title: "Vite",
-    icon: <SiVite size={iconSize} className="text-purple-500" />,
-  },
-  {
     title: "Next.js",
     icon: <SiNextdotjs size={iconSize} />,
-  },
-  {
-    title: "Redux",
-    icon: <SiRedux size={iconSize} className="text-violet-600" />,
   },
   {
     title: "Framer Motion",
@@ -88,10 +72,6 @@ const STACKS = [
   {
     title: "MongoDB",
     icon: <SiMongodb size={iconSize} className="text-green-500" />,
-  },
-  {
-    title: "Prisma",
-    icon: <SiPrisma size={iconSize} className="text-teal-500" />,
   },
   {
     title: "Github",
